@@ -4,9 +4,9 @@ import { Link } from 'react-router';
 const PhotoGrid = React.createClass({
   render(){
     return (
-        <div className="photo-grid">
-          I'm the photo gridddd
-        </div>
+      <div className="photo-grid">
+        Im the photo gridddd
+      </div>
     )
   }
 });

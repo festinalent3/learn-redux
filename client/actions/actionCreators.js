@@ -16,7 +16,7 @@ export function addComment(postID, author, comment){
 
 export function removeComment(postID, i) {
   return {
-    type. 'REMOVE_COMMENT',
+    type: 'REMOVE_COMMENT',
     i,
     postID
   }
